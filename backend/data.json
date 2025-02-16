@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "action": "Carpooling",
+    "date": "2025-01-08",
+    "points": 50
+  },
+  {
+    "id": 1,
+    "action": "Recycling",
+    "date": "2025-01-09",
+    "points": 30
+  },
+  {
+    "id": 2,
+    "action": "Reduced Plastic Use",
+    "date": "2025-01-09",
+    "points": 20
+  },
+  {
+    "id": 3,
+    "action": "Recycling",
+    "date": "2025-02-16",
+    "points": 30
+  },
+  {
+    "id": 4,
+    "action": "Recycling",
+    "date": "2025-02-16",
+    "points": 30
+  },
+  {
+    "id": 5,
+    "action": "Reduced Plastic Use",
+    "date": "2025-02-17",
+    "points": 20
+  }
+]
